@@ -37,8 +37,25 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,gradle,git,github" />
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,postman,figma" /><br>
+    <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,html,css" />
+    <br><br>
+    
+    <h3>Mobile Development</h3>
+    <img src="https://skillicons.dev/icons?i=android,androidstudio,gradle,firebase" />
+    <br><br>
+    
+    <h3>Development Tools & Version Control</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
+    <br><br>
+    
+    <h3>Databases & APIs</h3>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postman" />
+    <br><br>
+    
+    <h3>Design & UI/UX</h3>
+    <img src="https://skillicons.dev/icons?i=figma,xd" />
+    <br><br>
 </div>
 
 <br/>
