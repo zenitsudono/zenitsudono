@@ -32,29 +32,25 @@
   </a>
 </div>
 
-<hr/>
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,js,html,css" />
+<h3>Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,xml" />
 <br><br>
 
-<h3>Mobile Development</h3>
-<img src="https://skillicons.dev/icons?i=android,androidstudio,gradle,firebase" />
+<h3>Backend Development</h3>
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php" />
 <br><br>
 
-<h3>Development Tools & Version Control</h3>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
+<h3>Tools & Technologies</h3>
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,androidstudio,idea" />
 <br><br>
 
-<h3>Databases & APIs</h3>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postman" />
-<br><br>
-
-<h3>Design & UI/UX</h3>
-<img src="https://skillicons.dev/icons?i=figma,xd" />
+<h3>Robotics & Programming</h3>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c,kotlin" />
 <br><br>
 </div>
 
