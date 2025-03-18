@@ -14,7 +14,7 @@
  
  🌱 I'm currently learning **Jetpack Compose, Kotlin**
 
-💬 Ask me about **Android, Kotlin  ... or anything [here](https://github.com/zenitsudono/zenitsudono/issues)**
+💬 Ask me about **Android, Kotlin  ... or anything**
 
 ⚡ Fun fact **I love anime , manga ,football and enjoy gaming in my free time!**
 
