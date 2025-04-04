@@ -33,7 +33,7 @@
 </div>
 
  <hr/>
- [![trophy](https://github-profile-trophy.vercel.app/?username=zenitsudono)](https://github.com/zenitsudono/github-profile-trophy)
+<p align="center"> <a href="https://github.com/zenitsudono/github-profile-trophy"><img src="https://github-profile-trophy.app/?username=zenitsudono" alt="zenitsudono" /></a> </p>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
