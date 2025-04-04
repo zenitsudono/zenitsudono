@@ -33,6 +33,8 @@
 </div>
 
  <hr/>
+ <h2 align="center">🏆 trophies 🏆</h2>
+<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenitsudono" alt="zenitsudono" /></a> </p>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
