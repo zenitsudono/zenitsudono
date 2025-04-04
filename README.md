@@ -41,15 +41,15 @@
 <br/>
 <div align="center">
 <h3>Frontend Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,xml" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,xml,flutter" />
 <br><br>
 
 <h3>Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php,gradle" />
 <br><br>
 
 <h3>Tools & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,androidstudio,idea" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,androidstudio,idea,discord,firebase,postman,pycharm,windows" />
 <br><br>
 
 <h3>Robotics & Programming</h3>
