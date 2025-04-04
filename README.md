@@ -41,11 +41,11 @@
 <br/>
 <div align="center">
 <h3>Frontend Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,xml,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter" />
 <br><br>
 
 <h3>Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php,gradle" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php,gradle,py" />
 <br><br>
 
 <h3>Tools & Technologies</h3>
