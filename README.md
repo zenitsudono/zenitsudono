@@ -1,76 +1,67 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zenitsudono.zenitsudono" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zenitsudono!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zenitsudono!" />
 </h1>
 
-<h3 align="center">A passionate Android developer from Morocco 🇲🇦</h3>
+<h3 align="center">Android Developer | Morocco 🇲🇦</h3>
 
-<br/>
+---
 
 <div align="center">
- 
- 🔭 I'm currently working on **Android Development**
- 
- 🌱 I'm currently learning **Jetpack Compose, Kotlin**
 
-💬 Ask me about **Android, Kotlin  ... or anything [here](https://github.com/zenitsudono/zenitsudono/issues)**
+✨ Passionate about building Android apps and always eager to learn.<br/>
+🎯 Currently diving into <strong>Jetpack Compose</strong> and <strong>Kotlin</strong>.<br/>
+💬 Ask me anything about <strong>Android</strong>, <strong>Kotlin</strong>, or <a href="https://github.com/zenitsudono/zenitsudono/issues">drop a question here</a>.<br/>
+⚡ Fun fact: I love anime, manga, football ⚽, and gaming 🎮!
 
-⚡ Fun fact **I love anime , manga ,football and enjoy gaming in my free time!**
+</div>
 
- </div>
- 
-<div align="center"> 
+---
+
+### 📫 Connect with me
+
+<div align="center">
   <a href="mailto:salmi05abd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/salmi-abderrahman-1b296528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/salmi-abderrahman-1b296528a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://zenitsudono.github.io/portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- <h2 align="center">🏆 trophies 🏆</h2>
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenitsudono" alt="zenitsudono" /></a> </p>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter" />
-<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php,gradle,py" />
-<img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,androidstudio,idea,discord,firebase,postman,pycharm,windows" />
-<img src="https://skillicons.dev/icons?i=arduino,cpp,c,kotlin" />
-<br><br>
-</div>
+---
 
-<br/>
-<hr/>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zenitsudono&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+### ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zenitsudono/zenitsudono/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,html,css,js,react,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,php,gradle,arduino,cpp,c" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,windows,figma,discord,firebase,postman,pycharm" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
+### 🐍 GitHub Activity Snake
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zenitsudono&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-</div>
-<div align="center" >
-  
-  <a href="https://github.com/zenitsudono" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsudono&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-   
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zenitsudono/zenitsudono/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
-<br/><br/>
+---
+
+📊 GitHub Stats
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zenitsudono&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" /> </div> <br/> <div align="center"> <a href="https://github.com/zenitsudono"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenitsudono&langs_count=10&title_color=0891b2&text_color=ffffff&hide_border=true&theme=tokyonight&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> </a> </div>
+
+---
